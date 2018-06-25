@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BackGroundPlain.png" translatesAutoresizingMaskIntoConstraints="NO" id="Tnu-bs-qtz">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BackGroundPlain" translatesAutoresizingMaskIntoConstraints="NO" id="Tnu-bs-qtz">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="SPARK!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xr1-1a-y1J">
@@ -59,6 +59,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="BackGroundPlain.png" width="1700" height="2500"/>
+        <image name="BackGroundPlain" width="1700" height="2500"/>
     </resources>
 </document>
